@@ -1,0 +1,13 @@
+* TESI-602: enable to use ARC runner - dakeshita review by @ladypuipui in https://github.com/EARTHBRAIN/sc-simulation/pull/1038
+* TESI-602: enable to use ARC runner by @sanbun-y-mokutani in https://github.com/EARTHBRAIN/sc-simulation/pull/1033
+* TESI-697: error handling at draining point by @mutsuisan in https://github.com/EARTHBRAIN/sc-simulation/pull/1045
+* TESI-1121: feat: update simulation CI to match Dashboard by @yukinoda in https://github.com/EARTHBRAIN/sc-simulation/pull/1039
+* TESI-000: Add tiling-datapipline dependencies by @chethtrayen in https://github.com/EARTHBRAIN/sc-simulation/pull/1055
+* TESI-682: featureFlag context isssue on Simulation by @mutsuisan in https://github.com/EARTHBRAIN/sc-simulation/pull/1028
+* TESI-00: Hide temporary storage menu in add distribution by @Mr-akami in https://github.com/EARTHBRAIN/sc-simulation/pull/1059
+* TESI-304: terminate database session after bach job by @mutsuisan in https://github.com/EARTHBRAIN/sc-simulation/pull/1063
+* TESI-699: uniformity of draining points names by @AnamikaEB in https://github.com/EARTHBRAIN/sc-simulation/pull/1064
+* TESI-480: Add group tree structure to layer selection by @chethtrayen in https://github.com/EARTHBRAIN/sc-simulation/pull/1062
+* TESI-1189: Add temporaryStorages to exportDistributions options by @chethtrayen in https://github.com/EARTHBRAIN/sc-simulation/pull/1068
+* TESI-664: Add bounds update to patchProjectMetadata by @chethtrayen in https://github.com/EARTHBRAIN/sc-simulation/pull/1071
+* TESI-1219: 04/08 localization update by @chethtrayen in https://github.com/EARTHBRAIN/sc-simulation/pull/1073
